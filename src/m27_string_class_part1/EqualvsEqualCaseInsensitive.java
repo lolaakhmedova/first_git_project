@@ -1,0 +1,16 @@
+package m27_string_class_part1;
+
+public class EqualvsEqualCaseInsensitive {
+    static void main() {
+
+
+        String str1 = "CYDEO";
+        String str2 = "cydeo";
+
+        System.out.println(str1==str2);         //false
+        System.out.println(str1.equals(str2));  //false
+
+        System.out.println(str1.equalsIgnoreCase(str2)); //true
+
+    }
+}
