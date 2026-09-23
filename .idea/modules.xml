@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/first_git_project.iml" filepath="$PROJECT_DIR$/first_git_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jave-live-review.iml" filepath="$PROJECT_DIR$/jave-live-review.iml" />
     </modules>
   </component>
 </project>
